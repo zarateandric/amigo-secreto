@@ -23,6 +23,10 @@ function limpiarCaja(){
     document.getElementById("amigo").value ="";
 }
 
+function limpiarCajaResultado(){
+    document.getElementById("resultado").value ="";
+}
+
 function actualizarListaAmigos(){
     lista.innerHTML = "";
     for(i=0;i<amigos.length;i++){
@@ -41,6 +45,10 @@ function sortearAmigo(){
     let ganador = amigos[indiceAmigo];
     console.log(ganador);
     resultado.innerHTML = `El amigo sorteado es: ${ganador}`;
+    lista.innerHTML = "";
+    amigos = []
    }
    
 }
+
+limpiarCajaResultado();
