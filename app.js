@@ -23,9 +23,6 @@ function limpiarCaja(){
     document.getElementById("amigo").value ="";
 }
 
-function limpiarCajaResultado(){
-    document.getElementById("resultado").value ="";
-}
 
 function actualizarListaAmigos(){
     lista.innerHTML = "";
@@ -47,8 +44,9 @@ function sortearAmigo(){
     resultado.innerHTML = `El amigo sorteado es: ${ganador}`;
     lista.innerHTML = "";
     amigos = []
+
    }
    
 }
 
-limpiarCajaResultado();
+
