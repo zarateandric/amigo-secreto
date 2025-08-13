@@ -24,10 +24,10 @@ Cuando el usuario presiona el botón **"Sortear amigo"**, el sistema elige de ma
 
 ## 📂 Estructura del proyecto
 📦 amigo-secreto
-┣ 📜 index.html
-┣ 📜 style.css
-┣ 📜 script.js
-┗ 📜 README.md
+- 📜 index.html
+- 📜 style.css
+- 📜 script.js
+- 📜 README.md
 
 ## 🚀 Funcionalidades
 1. **Agregar nombres**  
@@ -45,7 +45,8 @@ Cuando el usuario presiona el botón **"Sortear amigo"**, el sistema elige de ma
 ---
 
 ## 📷 Vista previa
-![Vista previa](./screenshot.png)
+<img width="1912" height="903" alt="Screenshot 2025-08-13 000907" src="https://github.com/user-attachments/assets/52575e2e-3d0e-4078-8d1b-635757862030" />
+
 
 ---
 
