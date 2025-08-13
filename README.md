@@ -26,7 +26,7 @@ Cuando el usuario presiona el botón **"Sortear amigo"**, el sistema elige de ma
 📦 amigo-secreto
 - 📜 index.html
 - 📜 style.css
-- 📜 script.js
+- 📜 app.js
 - 📜 README.md
 
 ## 🚀 Funcionalidades
